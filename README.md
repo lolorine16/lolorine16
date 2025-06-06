@@ -3,7 +3,7 @@
 
 ---
 
-## 🔥 Mes stats GitHub
+## Mes stats GitHub ✨✨
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lolorine16&show_icons=true&theme=radical" alt="GitHub Stats" />
