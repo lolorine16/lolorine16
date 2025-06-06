@@ -13,4 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolorine16&layout=compact&theme=radical" alt="Langs" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lolorine16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
