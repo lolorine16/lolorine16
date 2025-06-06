@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Salut, moi c'est Laureen 👩🏾‍💻 aka lolorine16</h1>
+<p align="center"> Étudiante en Réseaux & Sécurité | Focus et déterminée</p>
 
-<!--
-**lolorine16/lolorine16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 Mes stats GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lolorine16&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lolorine16&theme=radical" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolorine16&layout=compact&theme=radical" alt="Langs" />
+</p>
+
+---
