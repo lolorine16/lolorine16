@@ -8,6 +8,6 @@
 
 ![Laureen EKON's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lolorine16&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide=prs,contribs)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lolorine16&theme=catppuccin-mocha&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lolorine16&theme=catppuccin-mocha&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
 
 ---
