@@ -5,12 +5,12 @@
 
 ## Mes stats GitHub ✨✨
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lolorine16&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lolorine16&theme=radical" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolorine16&layout=compact&theme=radical" alt="Langs" />
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolorine16&layout=donut-vertical&theme=catppuccin_mocha&hide_border=true)]
+
+[![Laureen EKON's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lolorine16&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide=prs,contribs)]
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lolorine16&theme=catppuccin-mocha&hide_border=true&border_radius=6)]
 
 ---
